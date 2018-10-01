@@ -1,6 +1,8 @@
-.carousel-caption{top: 35%}
+.carousel-caption{top: 60%}
 .carousel-caption h2{color: yellow}
 .carousel-caption p{color:yellowgreen; font-size: 18px; font-weight: bold;}
 
 .main-point .card{text-align: center; border: none;}
 .main-point .card i{color: sandybrown; font-size: 30px;}
+
+.underline {width: 150px; margin: 0 auto; height: 5px; background-color: sandybrown;}
