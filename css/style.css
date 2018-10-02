@@ -6,3 +6,7 @@
 .main-point .card i{color: sandybrown; font-size: 30px;}
 
 .underline {width: 150px; margin: 0 auto; height: 5px; background-color: sandybrown;}
+.underline-left{width: 150px; height: 5px; background-color: sandybrown;}
+.underline-white{width: 150px; margin: 0 auto; height: 5px; background-color: white;}
+.btn-custom{color: aliceblue; background-color: sandybrown;}
+.offer{background-color: #3ca0b9;}
