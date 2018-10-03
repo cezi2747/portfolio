@@ -9,4 +9,9 @@
 .underline-left{width: 150px; height: 5px; background-color: sandybrown;}
 .underline-white{width: 150px; margin: 0 auto; height: 5px; background-color: white;}
 .btn-custom{color: aliceblue; background-color: sandybrown;}
+
 .offer{background-color: #3ca0b9;}
+.offer .card{text-align: center;}
+.offer .card .card-body{background-color: aliceblue;}
+
+.media i{padding: 20px; background-color: #363636; color: #efb925; border: 4px solid #efb925;}
